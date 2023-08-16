@@ -1,0 +1,57 @@
+/* Add your CSS styles here
+.payment-details-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .payment-details-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .payment-details {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .payment-method-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .credit-card-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .payment-button {
+    display: block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+   */
