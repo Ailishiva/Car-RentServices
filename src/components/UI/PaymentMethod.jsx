@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import masterCard from "../../assets/all-images/master-card.jpg";
 import paypal from "../../assets/all-images/paypal.jpg";
 import "../../styles/payment-method.css";
 
 const PaymentMethod = () => {
-  const history = useNavigate();
+  // const history = useNavigate();
   const [selectedOption, setSelectedOption] = useState(null);
 
   const handleOptionChange = (option) => {
